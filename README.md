@@ -10,7 +10,8 @@ DP-CERT
 </h1>
 <h4>
 </div>
-This repository presents the code required to reproduce the results of [*Augment then Smooth: Reconciling Differential Privacy with Certified Robustness*](https://arxiv.org/abs/2306.08656), accepted to [TMLR](https://openreview.net/forum?id=YN0IcnXqsr).
+
+This repository presents the code required to reproduce the results of [*Augment then Smooth: Reconciling Differential Privacy with Certified Robustness*](https://arxiv.org/abs/2306.08656), published at [TMLR](https://openreview.net/forum?id=YN0IcnXqsr).
 
 ## Prerequisites
 
@@ -143,7 +144,7 @@ If you don't want to save the metrics to a json file, use the `--skip_saving_jso
 ## BibTeX
 ```
 @article{wu2023augment,
-  title={Augment then smooth: Reconciling differential privacy with certified robustness},
+  title={Augment then Smooth: Reconciling Differential Privacy with Certified Robustness},
   author={Jiapeng Wu and Atiyeh Ashari Ghomi and David Glukhov and Jesse C. Cresswell and Franziska Boenisch and Nicolas Papernot},
   journal={Transactions on Machine Learning Research},
   url={https://openreview.net/forum?id=YN0IcnXqsr},
